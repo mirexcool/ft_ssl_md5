@@ -1,1 +1,4 @@
-CMakeLists.txt not found in /Users/yyefimov/CLionProjects/ft_ssl_md5
+"C:\Program Files\JetBrains\CLion 2018.1.5\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\mirex\Documents\MD5_SHA256
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/mirex/Documents/MD5_SHA256/cmake-build-debug
